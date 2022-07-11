@@ -1,1 +1,6 @@
-hi hello
+class {
+
+public static void main(String[] args){
+
+}
+}
